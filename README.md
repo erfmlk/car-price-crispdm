@@ -24,7 +24,7 @@ To develop a robust machine learning pipeline that:
 ---
 
 ## Dataset Details
-**Source:** Craigslist Vehicle Listings – [UCI Repository]  
+**Source:** Craigslist Vehicle Listings – [https://www.kaggle.com/]  
 **File Used:** `vehicles.csv` (located inside the ZIP file `practical_application_II_starter.zip`)
 
 ### Main Fields:
