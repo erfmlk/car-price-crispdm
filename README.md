@@ -3,7 +3,9 @@
 **Project for Assignment 11.1: What Drives the Price of a Car?**
 
 _Second Practical Application Assignment_ 
+
 Course: **Professional Certificate in Machine Learning and Artificial Intelligence by Berkeley**  
+
 **By: Erfan Maleki**
 
 ---
